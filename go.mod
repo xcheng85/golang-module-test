@@ -1,4 +1,4 @@
-module github.com/xcheng85/golang-module-test/v2
+module github.com/xcheng85/golang-module-test
 
 go 1.17
 

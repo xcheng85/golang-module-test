@@ -16,3 +16,6 @@ git tag v0.1.0
  git push origin v0.1.0
 
  go list -m github.com/xcheng85/golang-module-test@v0.1.0
+
+
+ git push --delete origin v2.0.0-alpha.1
